@@ -1,12 +1,12 @@
 {
-	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/bradford/bradford-landusage-allotments.geojson",
+	"geojson":"https://raw.githubusercontent.com/open-innovations/west-yorkshire-mapping/main/data/bradford/bradford-landusage-allotments.geojson",
 	"name":"Bradford allotments",
 	"desc":"Open Street Map allotment shapes",
 	"url":"https://openstreetmap.org/",
 	"owner":"osm",
 	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-	"date":"2018-08-09",
+	"date":"2023-07-05",
 	"odbl":true,
-	"size": 40288,
+	"size": 46269,
 	"colour":"#67E767"
 }

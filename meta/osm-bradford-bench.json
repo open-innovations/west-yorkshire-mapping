@@ -1,13 +1,13 @@
 {
-	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/bradford/bradford-amenities-bench.geojson",
+	"geojson":"https://raw.githubusercontent.com/open-innovations/west-yorkshire-mapping/main/data/bradford/bradford-amenities-bench.geojson",
 	"name":"Bradford benches",
 	"desc":"Benches from Open Street Map",
 	"url":"https://openstreetmap.org/",
 	"owner":"osm",
 	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-	"date":"2018-07-30",
+	"date":"2023-07-05",
 	"odbl":true,
-	"size": 17383,
+	"size": 66409,
 	"colour":"#00a2d3",
 	"popup":"<h3>Bench: %name%</h3><p><strong>Inscription:</strong> %inscription%<br /><strong>Backrest:</strong> %backrest%<br /><strong>OSM ID</strong>: %osm_id%</p>"
 }

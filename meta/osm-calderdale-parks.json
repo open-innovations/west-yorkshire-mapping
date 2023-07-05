@@ -1,12 +1,12 @@
 {
-	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/calderdale/calderdale-leisure-park.geojson",
+	"geojson":"https://raw.githubusercontent.com/open-innovations/west-yorkshire-mapping/main/data/calderdale/calderdale-leisure-park.geojson",
 	"name":"Calderdale parks",
 	"desc":"Open Street Map parks",
 	"url":"https://openstreetmap.org/",
 	"owner":"osm",
 	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-	"date":"2018-06-28",
+	"date":"2023-07-05",
 	"odbl":true,
-	"size": 38186,
+	"size": 52917,
 	"colour":"#4af74c"
 }

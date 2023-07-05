@@ -1,12 +1,12 @@
 {
-	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-amenities-bicycle_parking.geojson",
+	"geojson":"https://raw.githubusercontent.com/open-innovations/west-yorkshire-mapping/main/data/leeds/leeds-amenities-bicycle_parking.geojson",
 	"name":"Leeds bicycle parking",
 	"desc":"Parking for bikes",
 	"url":"https://openstreetmap.org/",
 	"owner":"osm",
 	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-	"date":"2018-07-29",
+	"date":"2023-07-05",
 	"odbl":true,
-	"size": 40362,
+	"size": 149887,
 	"colour":"#00B6FF"
 }

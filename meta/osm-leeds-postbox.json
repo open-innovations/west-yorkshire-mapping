@@ -1,12 +1,12 @@
 {
-	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-amenities-post_box.geojson",
+	"geojson":"https://raw.githubusercontent.com/open-innovations/west-yorkshire-mapping/main/data/leeds/leeds-amenities-post_box.geojson",
 	"name":"Leeds post boxes",
 	"desc":"Open Street Map post boxes.",
 	"url":"https://openstreetmap.org/",
 	"owner":"osm",
 	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-	"date":"2018-07-20",
+	"date":"2023-07-05",
 	"odbl":true,
-	"size": 236474,
+	"size": 362239,
 	"colour":"#D60303"
 }

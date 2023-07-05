@@ -1,12 +1,12 @@
 {
-	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/leeds/leeds-amenities-atm.geojson",
+	"geojson":"https://raw.githubusercontent.com/open-innovations/west-yorkshire-mapping/main/data/leeds/leeds-amenities-atm.geojson",
 	"name":"Leeds ATMs",
 	"desc":"Open Street Map ATMs",
 	"url":"https://openstreetmap.org/",
 	"owner":"osm",
 	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-	"date":"2018-07-14",
+	"date":"2023-07-05",
 	"odbl":true,
-	"size": 33513,
+	"size": 46941,
 	"colour":"#f05948"
 }

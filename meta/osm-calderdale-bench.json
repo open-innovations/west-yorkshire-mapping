@@ -1,13 +1,13 @@
 {
-	"geojson":"https://raw.githubusercontent.com/odileeds/west-yorkshire-mapping/master/data/calderdale/calderdale-amenities-bench.geojson",
+	"geojson":"https://raw.githubusercontent.com/open-innovations/west-yorkshire-mapping/main/data/calderdale/calderdale-amenities-bench.geojson",
 	"name":"Calderdale benches",
 	"desc":"Benches from Open Street Map",
 	"url":"https://openstreetmap.org/",
 	"owner":"osm",
 	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
-	"date":"2018-06-28",
+	"date":"2023-07-05",
 	"odbl":true,
-	"size": 6215,
+	"size": 55693,
 	"colour":"#00a2d3",
 	"popup":"<h3>Bench: %name%</h3><p><strong>Inscription:</strong> %inscription%<br /><strong>Backrest:</strong> %backrest%<br /><strong>OSM ID</strong>: %osm_id%</p>"
 }
