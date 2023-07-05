@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_way_id": "911879191", "name": "Atkinson Brown Stoarge Limited", "amenity": "storage", "other_tags": "\"phone\"=>\"+44 1924 416654\",\"phone:mobile\"=>\"+44 7545 047164\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.44561, 53.6597328 ], [ -1.443475, 53.6590016 ], [ -1.443223, 53.6589153 ], [ -1.4431778, 53.6589455 ], [ -1.4430929, 53.6590022 ], [ -1.4429528, 53.6590815 ], [ -1.4424707, 53.6593272 ], [ -1.4425478, 53.6593534 ], [ -1.4438163, 53.6597852 ], [ -1.4447573, 53.6601074 ], [ -1.44561, 53.6597328 ] ] ] ] } }
+]
+}

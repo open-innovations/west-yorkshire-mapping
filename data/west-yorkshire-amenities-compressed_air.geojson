@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "2881824670", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.6227444, 53.7968899 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3786773390", "amenity": "compressed_air", "other_tags": "\"fee\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6382026, 53.8040644 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "3801400073", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.6033751, 53.8147527 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "4486820662", "amenity": "compressed_air", "other_tags": "\"covered\"=>\"yes\",\"fee\"=>\"yes\",\"operator\"=>\"Shell\"" }, "geometry": { "type": "Point", "coordinates": [ -1.5155805, 53.6560693 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "5371260044", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.8351929, 53.6886965 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6311830378", "amenity": "compressed_air", "other_tags": "\"fee\"=>\"yes\",\"lit\"=>\"yes\",\"operator\"=>\"Tesco\",\"payment:cash\"=>\"yes\",\"payment:coins\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.4584164, 53.8216941 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "6365115958", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.564624, 53.7682054 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7606219209", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.5131681, 53.7747226 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7707742400", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.4785346, 53.8049024 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "7953558995", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.3072657, 53.691693 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8050474708", "amenity": "compressed_air", "other_tags": "\"covered\"=>\"no\",\"lit\"=>\"yes\",\"operator\"=>\"BP\"" }, "geometry": { "type": "Point", "coordinates": [ -1.6294478, 53.7148378 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8067804756", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.5308107, 53.7481512 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8068235621", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.6086124, 53.7360358 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8310479711", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.4466708, 53.6647843 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8385200743", "amenity": "compressed_air", "other_tags": "\"lit\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.853582, 53.7025097 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8396758207", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.859762, 53.7181997 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8408011712", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.8552017, 53.7266058 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8454989234", "amenity": "compressed_air" }, "geometry": { "type": "Point", "coordinates": [ -1.8929391, 53.7496961 ] } },
+	{ "type": "Feature", "properties": { "osm_id": "8845769074", "amenity": "compressed_air", "other_tags": "\"access\"=>\"customers\",\"covered\"=>\"no\",\"fee\"=>\"yes\",\"lit\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.7055812, 53.5752024 ] } }
+]
+}

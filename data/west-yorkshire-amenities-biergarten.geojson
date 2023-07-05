@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+	{ "type": "Feature", "properties": { "osm_id": "8569445135", "amenity": "biergarten", "other_tags": "\"outdoor_seating\"=>\"yes\"" }, "geometry": { "type": "Point", "coordinates": [ -1.8411495, 53.8506163 ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "951811453", "amenity": "biergarten", "other_tags": "\"opening_hours:covid19\"=>\"open\",\"operator\"=>\"Turkey Inn\",\"outdoor_seating\"=>\"yes\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.9576528, 53.8614928 ], [ -1.9571244, 53.8615091 ], [ -1.957163, 53.8615591 ], [ -1.9576215, 53.8615466 ], [ -1.9576528, 53.8614928 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "957609772", "amenity": "biergarten" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.3769459, 53.7926701 ], [ -1.3770379, 53.7926646 ], [ -1.3771178, 53.7926597 ], [ -1.3771124, 53.7925964 ], [ -1.377093, 53.7925974 ], [ -1.3768645, 53.7926075 ], [ -1.3768684, 53.7926309 ], [ -1.3768699, 53.79264 ], [ -1.3769399, 53.7926357 ], [ -1.3769459, 53.7926701 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "971687399", "amenity": "biergarten" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.8393909, 53.6492867 ], [ -1.8393886, 53.6492265 ], [ -1.8396302, 53.6491996 ], [ -1.8396151, 53.6492508 ], [ -1.8397773, 53.6492376 ], [ -1.8398065, 53.6492847 ], [ -1.8393909, 53.6492867 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1069090108", "amenity": "biergarten" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.5098043, 53.6799311 ], [ -1.5097404, 53.6799256 ], [ -1.5094694, 53.6799013 ], [ -1.5095142, 53.6799568 ], [ -1.5095702, 53.6800052 ], [ -1.5096835, 53.6800253 ], [ -1.5097769, 53.6800025 ], [ -1.5097974, 53.6799488 ], [ -1.5098043, 53.6799311 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1086079910", "amenity": "biergarten", "other_tags": "\"outdoor_seating\"=>\"yes\"" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.9974178, 53.8302329 ], [ -1.9972972, 53.8301774 ], [ -1.9972149, 53.8302372 ], [ -1.997339, 53.8302925 ], [ -1.9974178, 53.8302329 ] ] ] ] } },
+	{ "type": "Feature", "properties": { "osm_way_id": "1090798034", "amenity": "biergarten" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.3410605, 53.7306705 ], [ -1.3410387, 53.7306307 ], [ -1.340955, 53.7304782 ], [ -1.3406375, 53.7305465 ], [ -1.3406161, 53.7305634 ], [ -1.340607, 53.7305844 ], [ -1.3406973, 53.7307368 ], [ -1.3410605, 53.7306705 ] ] ] ] } }
+]
+}
