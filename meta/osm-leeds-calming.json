@@ -7,6 +7,6 @@
 	"credit": { "text": "&copy; OpenStreetMap contributors", "src": "OpenStreetMap" }, "licence": { "text": "ODbL", "url": "https://www.openstreetmap.org/copyright"},
 	"date":"2023-07-05",
 	"odbl":true,
-	"size": 279289,
+	"size": 136,
 	"colour":"#FF6799"
 }
